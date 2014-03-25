@@ -2,7 +2,7 @@
 Chicken Install HOWTO (c) Nicolas Kovacs <info@microlinux.fr>
 =====================
 
-Dernière révision : 8 janvier 2013
+Dernière révision : 25 mars 2014
 
 Ce HOWTO décrit l'installation basique (en mode "poule") de Slackware 14.0.
 
